@@ -1,0 +1,7 @@
+*.suo
+*.exe
+GameOfLife/bin/
+GameOfLife/obj/
+GameOfLifeTests/bin/
+GameOfLifeTests/obj/
+packages/
